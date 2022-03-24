@@ -14,8 +14,8 @@ Calender-project
 This project shows a python program that displays Calendar of August 2005.
 
 # Tools/language used for project
-Visual Studio Code 1.64.2
-Pyhton 3.7
+ Visual Studio Code 1.64.2
+ Pyhton 3.7
 
 # How to run the project
 Firstly, you need to create the environment and folder on your VS code.
