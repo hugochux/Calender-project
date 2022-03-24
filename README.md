@@ -22,7 +22,7 @@ Firstly, you need to create the environment and folder on your VS code.
 
 Then you import the calendar module: "import calendar" 
 
-Assign the the aapropriate varaibles, in this case 'mm' for months, 8 for August; 'yy' for year, 2014.
+Assign the the aapropriate varaibles, in this case 'mm' for months, 8 for August; 'yy' for year, 2005.
 
 The built-in function month() inside the module takes in the year and the month.
 
